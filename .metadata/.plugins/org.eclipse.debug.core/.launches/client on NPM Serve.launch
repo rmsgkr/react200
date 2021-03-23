@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com.genuitec.eclipse.code.npm.based.server.launch">
+    <booleanAttribute key="auto-detect-url" value="true"/>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
         <listEntry value="/client"/>
     </listAttribute>
