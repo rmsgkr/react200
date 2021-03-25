@@ -26,6 +26,7 @@ VALUE=\#79ABFF | false | false | false | false
 VARIABLE=\#BFA4A4 | false | false | false | false
 candidate.for.install.coupon=false
 codemix.license.coupon.offered=true
+codemix.newfile.notification.js=false
 codemix.settings.migration=true
 contextual.actions.preferences.migrated=true
 deletedObsoleteMarkers=true
